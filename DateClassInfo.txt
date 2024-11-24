@@ -1,0 +1,22 @@
+Информация о классе: Date
+Имя сборки: OOP11
+Есть публичные конструкторы: True
+Публичные методы:
+- get_Day
+- set_Day
+- get_Month
+- set_Month
+- get_Year
+- set_Year
+- PrintDate
+- UpdateDate
+- Equals
+- GetHashCode
+- ToString
+- GetType
+Поля и свойства:
+- ID
+- Day
+- Month
+- Year
+Реализованные интерфейсы:
